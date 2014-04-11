@@ -8,3 +8,13 @@
 
 // Variables
 
+var myname = "Andrew";
+var armor1 = "lightweight";
+var armor2 = "heavyduty";
+var weapon1 = "sword";
+var weapon2 = "crossbow";
+var fightingadragon = true;
+var numberofdragons = 1;
+var numberofbows = 10;
+var moredragons = 2;
+var mypromt;
