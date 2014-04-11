@@ -53,5 +53,14 @@ var mypromt;
 
  };
 
- 
+ if (fightingadragon === false){
+ 	mypromt = prompt("we wont be needing to decide what armor and weapon we need becasue were not preparing to fight a dragon");
+ 	mypromt = parseInt("0");
+ 	   if (mypromt >= 0)
+ 	   	alert("no need for you to decide on a type of armor");
+ 	    else
+ 	    alert("we wont be preparing to fight any dragons")
+
+ };
+
 
