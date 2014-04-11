@@ -6,4 +6,5 @@
 
 // Preparing to fight a dragon! Deciding which armor to get and what weapon to use.
 
-// 
+// Variables
+
