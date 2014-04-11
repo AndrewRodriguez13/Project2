@@ -18,3 +18,40 @@ var numberofdragons = 1;
 var numberofbows = 10;
 var moredragons = 2;
 var mypromt;
+
+// Conditional
+
+ if (armor1 === "lightweight"){
+ 	 console.log("we are going to be moving fast and swift");
+ } else {
+ 	console.log("we're not going to be moving has fast")
+ }
+
+ };
+
+ if (armor2 === "heavyduty"){
+ 	 console.log("we wont be moving to fast but we have a fast fire rate weapon");
+ } else {
+ 	console.log("We will be moving swiftly")
+ }
+
+ };
+
+ // Boolean
+
+ fightingadragon = confirm("are we going to slay a dragon today?");
+
+ // Boolean with while loop
+
+ if (fightingadragon === true){
+    Myprompt = prompt("How many dragons are we going to fight today?", "type number of dragons");
+    Myprompt = parseInt("1");
+       if (Myprompt <= 1)
+       alert("Its time to slay a single dragon with my lightweight armor and sword!!!");
+       else
+       alert("multiple dragons!! No need to worry my heavy-duty armor and crossbow will do the trick")
+
+ };
+
+ 
+
